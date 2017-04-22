@@ -1,0 +1,43 @@
+{
+  "name": "word-4-mood",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "15.4.2",
+    "react-native": "0.40.0"
+  },
+  "devDependencies": {
+    "babel-jest": "18.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "18.1.0",
+    "react-test-renderer": "15.4.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "description": "Bible mobile app that allows you to search bible verses based on a list of moods as well as search key words in the bible.",
+  "main": "index.android.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmpoweredMinistry/Word4Mood.git"
+  },
+  "keywords": [
+    "bible",
+    "mood",
+    "bible",
+    "search",
+    "android",
+    "iphone",
+    "app"
+  ],
+  "author": "Manny Colon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmpoweredMinistry/Word4Mood/issues"
+  },
+  "homepage": "https://github.com/EmpoweredMinistry/Word4Mood#readme"
+}
