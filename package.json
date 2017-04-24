@@ -19,7 +19,7 @@
   "jest": {
     "preset": "react-native"
   },
-  "description": "Bible mobile app to search bible verses based on your mood.",
+  "description": "Bible Mobile App that allows you to search bible verses based on your mood.",
   "main": "index.android.js",
   "repository": {
     "type": "git",
