@@ -1,2 +1,2 @@
 # Word4Mood
-Bible mobile app to search bible verses based on your mood.
+Bible Mobile App that allows you to search bible verses based on your mood.
