@@ -21,10 +21,6 @@
   },
   "description": "Bible Mobile App that allows you to search bible verses based on your mood.",
   "main": "index.android.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EmpoweredMinistry/Word4Mood.git"
-  },
   "keywords": [
     "bible",
     "mood",
@@ -36,6 +32,10 @@
   ],
   "author": "Manny Colon",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmpoweredMinistry/Word4Mood.git"
+  },
   "bugs": {
     "url": "https://github.com/EmpoweredMinistry/Word4Mood/issues"
   },
