@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { View, Text, StyleSheet, Navigator, TouchableOpacity, ScrollView, ActivityIndicator, BackAndroid, Platform } from 'react-native';
 import NavigationBar from './NavigationBar'
 import Moods from './Moods';
-import Verses from './Verses';Header
+import Verses from './Verses';
 import Header from './Header';
 
 export default class App extends Component {
